@@ -16,6 +16,10 @@ A Collection can have multiple Collection Products.
 
 Each Collection Product is shown on the [Collection Listing](https://ampal.myshopify.com/collections) page.
 
+### Ordering collections
+1. Go to Online Store/Navigation/Collections
+2. Under ‘Links,’ drag collections into the desired order
+
 ### Collection title
 
 The title can be set by updating the Collection title.
