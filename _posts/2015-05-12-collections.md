@@ -48,6 +48,8 @@ e.g. `Shot on location in Malibu by Heather Gildroy`
 You can reference an image to a product by adding the product handle to the alt tag prefixed by `product:`.  
 e.g. `product:dottie-bucket`
 
+You can find the exact product name by going to *Search engine listing preview* on a product page and clicking *Edit website SEO*. The end of the URL is the exact product name.
+
 ## Image caption
 
 You can add a caption to an image by updating the `alt` tag for the image.
