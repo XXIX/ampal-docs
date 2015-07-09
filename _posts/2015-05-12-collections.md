@@ -11,6 +11,10 @@ A Collection can have multiple Collection Products.
 4. Create a Product
 5. Set the template of the Product to `product.collection`
 6. Add the Product to the Collection
+7. Go to Online Store/Navigation/Collections
+8. In the Links section, click Add another link
+9. Enter the collection name, select Links to... Collection, and select the corresponding collection
+10. Hit Save!
 
 ## Collection Listing
 
